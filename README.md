@@ -1,2 +1,3 @@
-dinosaurs-new
-=============
+# Dinosaurs
+
+A website listing popular dinosaurs.
